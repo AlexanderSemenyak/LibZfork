@@ -1,3 +1,6 @@
+origin: https://github.com/fnajera-rac-de/LibZ
+alexander: Main branch - ra
+
 ## LibZ, the alternative to ILMerge
 LibZ is an alternative to ILMerge. It allows you to distribute your applications or libraries as a single file with assemblies embedded into it or combined together into a container file.
 
